@@ -4,3 +4,6 @@ Machine Learning version of pima indian diabetes data classification
 - Wrapper method of feature selection is implemented in the follownig methods:
   - Recursive Feature Elimination RFE (Select all features and discard features low correlated with target)
   - Feature selection (Forward and Backward selection of features most correlated with target)
+  
+Source - Exercises/Ex_MachineLearning/Pluralsight/Preparing Data for Machine Learning/07 Feature Selection Using Wrapper Methods.ipynb
+
