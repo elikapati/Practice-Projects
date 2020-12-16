@@ -1,0 +1,13 @@
+This program binary classifies samples from the sonar features into Rock or Metal.
+- Objective is to predict the house price from the features. 
+- Studied the data distributions carefully and picked up 
+  - 3 linear models - Linear regression(LR), Lasso regression(LASSO), ElasticNet(EN); 
+  - 3 non-linear algorithms CART 
+     - (Classification and Regression Trees), 
+     - Support vector regression(SVR), 
+     - k-nearest neighbors(KNN) for evaluation. 
+- Picked up KNN to be the best model and fine-tuned it to get the best results for the given data. 
+- Applied ensembling technique methods 
+  - Bagging (Random Forest, Extra Trees) and 
+  - Boosting (AdaBoost, Gradient Boosting) to find the best model on the data as Gradient Boosting. 
+- Fine-tuned the model on the data to get best fit from the optimal parameters. 
