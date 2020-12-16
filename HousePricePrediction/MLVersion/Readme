@@ -1,0 +1,6 @@
+This project predicts house prices from the features using KerasRegressor of Keras using Scikit learn library
+- It baselines the metrics taking the data as it is applying kfold cross validation
+- It checks for improvement after standardizing data mean 0 and std deviation 1
+- It verifies to see if it improves by creating 
+  - larger network
+  - wider network
