@@ -4,3 +4,7 @@ This project predicts house prices from the features using KerasRegressor of Ker
 - It verifies to see if it improves by creating 
   - larger network
   - wider network
+
+I have the source code on my DELL Laptop at 
+  - Exercises/Ex_DeepLearning/DL_Jason Brownlee/Book Deep Learning With Python/05d_Keras Regression with Scikit library on House Prices.ipynb
+
