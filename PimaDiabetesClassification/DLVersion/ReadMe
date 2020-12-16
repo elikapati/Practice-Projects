@@ -1,0 +1,4 @@
+Project classifies pima indian diabet data set samples to be either Diabetic or Non-diabetic
+- Uses KerasClassfier
+- Uses kfold cross validation
+- Uses GridSearchCV to pick best parameters
