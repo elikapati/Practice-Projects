@@ -1,10 +1,3 @@
-This project predicts house prices from the features using KerasRegressor of Keras using Scikit learn library
-- It baselines the metrics taking the data as it is applying kfold cross validation
-- It checks for improvement after standardizing data mean 0 and std deviation 1
-- It verifies to see if it improves by creating 
-  - larger network
-  - wider network
-
-I have the source code on my DELL Laptop at 
-  - Exercises/Ex_DeepLearning/DL_Jason Brownlee/Book Deep Learning With Python/05d_Keras Regression with Scikit library on House Prices.ipynb
-
+This project predicts the house price given various features which can influence the price.
+- It uses Boston house prices as input
+- It implements Regression technique
