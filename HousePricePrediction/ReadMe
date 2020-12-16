@@ -1,3 +1,0 @@
-This project predicts the house price given various features which can influence the price.
-- It uses Boston house prices as input
-- It implements Regression technique
