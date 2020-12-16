@@ -11,3 +11,6 @@ This program binary classifies samples from the sonar features into Rock or Meta
   - Bagging (Random Forest, Extra Trees) and 
   - Boosting (AdaBoost, Gradient Boosting) to find the best model on the data as Gradient Boosting. 
 - Fine-tuned the model on the data to get best fit from the optimal parameters. 
+
+Source is on my DELL Laptop at 
+- Exercises/Ex_MachineLearning/ML_Jason Brownlee/ML_Mastery/21_SonarDataClassification.ipynb
