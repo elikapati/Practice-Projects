@@ -1,0 +1,8 @@
+This project is develoved to demonstrate topics learned by MTech students of National University of Singapore.
+- It detects driver drowsiness using facial annotations. 
+- It captures the driver's face using the video camera.
+- Identifies eyes and calculates the aspect ratio to sense if the eyes are in open state or closed state.
+- Alarms if the eyes are closed for a threshold number of seconds.
+
+Complete source code and other files are kept on DELL laptop at 
+D:\ACE\National University of Singapore\Semester2\Course Material\Project\Explore\Driver Drowsiness Detection\Second technique
