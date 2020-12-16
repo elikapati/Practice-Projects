@@ -7,5 +7,8 @@ We apply simple neural network model with "StratifiedKFold" on data as the sampl
 We use Standardization to bring the data to 0 mean and std deviation of 1, apply the model to see performance improvement
 We also create a smaller network and larger network to see watch for performance gain
 
+Source can be found on my DELL Laptop at
+  - Exercises/Ex_DeepLearning/DL_Jason Brownlee/Book Deep Learning With Python/05c_Keras Classification with Scikit library on Sonar Rock vs Metal.ipynb
+
 
 
